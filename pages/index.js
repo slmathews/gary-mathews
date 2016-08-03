@@ -16,6 +16,11 @@ export default class Index extends React.Component {
             Hi people
           </h1>
           <p>Welcome to the Gary Mathews' Biography</p>
+          <ul>
+            <li>
+              <Link to="/chapters/mission/">Mission</Link>
+            </li>
+          </ul>
         </div>
       </DocumentTitle>
     )
