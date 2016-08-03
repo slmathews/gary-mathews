@@ -5,7 +5,7 @@
 * served in office
 * mail being held for lottery payment
 * Sis Strong and cook -- speak in "Christian" or don't speak at all
-* TESTING
+* 
 
 ## Some images
 ![](1963-08-28-Mission-Call-Argentina.jpeg)
