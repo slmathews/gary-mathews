@@ -40,8 +40,8 @@ P.S.
 
 My address is
 
-Elder Gary A. Mthews
-Nacion 144
-San Nicolas
-Pros. Buenos Aires
-Argentina
+Elder Gary A. Mathews  
+Nacion 144  
+San Nicolas  
+Pros. Buenos Aires  
+Argentina  
