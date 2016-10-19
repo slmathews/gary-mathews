@@ -1,0 +1,2 @@
+webpackJsonp([7],{247:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Gary Mathews"}},markdown:{bodyHTML:"<h1>NOT FOUND</h1>\n<p>You just hit a route that doesn't exist... the sadness.</p>\n",frontmatter:{title:null}}},pathContext:{path:"/404/",component:"/Users/kylemathews/programs/gary-mathews/page-templates/markdown-page.js",componentChunkName:"page-component---page-templates-markdown-page-js"}}}});
+//# sourceMappingURL=path---404-80281228eb05e66dc19d.js.map

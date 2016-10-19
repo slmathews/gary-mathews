@@ -1,0 +1,2 @@
+webpackJsonp([15],{239:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Gary Mathews"}},markdown:{bodyHTML:"<h1>Gary does junior college at Ricks</h1>\n",frontmatter:{title:null}}},pathContext:{path:"/chapters/ricks-college/",component:"/Users/kylemathews/programs/gary-mathews/page-templates/markdown-page.js",componentChunkName:"page-component---page-templates-markdown-page-js"}}}});
+//# sourceMappingURL=path---chapters-ricks-college-8b905fbc37d3f550154b.js.map

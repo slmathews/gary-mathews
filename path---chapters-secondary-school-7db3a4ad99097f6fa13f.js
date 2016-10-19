@@ -1,0 +1,2 @@
+webpackJsonp([6],{248:function(a,e){a.exports={data:{site:{siteMetadata:{title:"Gary Mathews"}},markdown:{bodyHTML:"<h1>Gary goes to junior high and high school</h1>\n",frontmatter:{title:null}}},pathContext:{path:"/chapters/secondary-school/",component:"/Users/kylemathews/programs/gary-mathews/page-templates/markdown-page.js",componentChunkName:"page-component---page-templates-markdown-page-js"}}}});
+//# sourceMappingURL=path---chapters-secondary-school-7db3a4ad99097f6fa13f.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([14],{240:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Gary Mathews"}},markdown:{bodyHTML:"<h1>Gary enters school</h1>\n",frontmatter:{title:null}}},pathContext:{path:"/chapters/elementary-school/",component:"/Users/kylemathews/programs/gary-mathews/page-templates/markdown-page.js",componentChunkName:"page-component---page-templates-markdown-page-js"}}}});
+//# sourceMappingURL=path---chapters-elementary-school-388481565a41439bce49.js.map

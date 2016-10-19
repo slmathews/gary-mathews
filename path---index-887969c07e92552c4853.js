@@ -1,0 +1,2 @@
+webpackJsonp([5],{126:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Gary Mathews"}}},pathContext:{component:"/Users/kylemathews/programs/gary-mathews/pages/index.js",componentChunkName:"page-component---pages-index-js",path:"/"}}}});
+//# sourceMappingURL=path---index-887969c07e92552c4853.js.map

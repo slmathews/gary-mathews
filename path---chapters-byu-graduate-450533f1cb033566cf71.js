@@ -1,0 +1,2 @@
+webpackJsonp([9],{245:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Gary Mathews"}},markdown:{bodyHTML:"<h2>Stories</h2>\n<ul>\n<li>Ben/Nathan born</li>\n</ul>\n",frontmatter:{title:"Gary gets his masters degree in teaching from BYU"}}},pathContext:{path:"/chapters/byu-graduate/",component:"/Users/kylemathews/programs/gary-mathews/page-templates/markdown-page.js",componentChunkName:"page-component---page-templates-markdown-page-js"}}}});
+//# sourceMappingURL=path---chapters-byu-graduate-450533f1cb033566cf71.js.map

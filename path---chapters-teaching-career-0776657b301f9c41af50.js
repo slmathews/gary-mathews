@@ -1,0 +1,2 @@
+webpackJsonp([16],{238:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Gary Mathews"}},markdown:{bodyHTML:"<h1>Gary teaches</h1>\n<h2>Stories</h2>\n<h3>Alaska</h3>\n<h3>Eddyville</h3>\n<h3>Siletz</h3>\n<h3>Lincoln City</h3>\n",frontmatter:{title:null}}},pathContext:{path:"/chapters/teaching-career/",component:"/Users/kylemathews/programs/gary-mathews/page-templates/markdown-page.js",componentChunkName:"page-component---page-templates-markdown-page-js"}}}});
+//# sourceMappingURL=path---chapters-teaching-career-0776657b301f9c41af50.js.map
