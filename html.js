@@ -4,22 +4,12 @@ import DocumentTitle from 'react-document-title'
 import { prefixLink } from 'gatsby-helpers'
 import { GoogleFont, TypographyStyle } from 'react-typography'
 import typography from './utils/typography'
-
-const BUILD_TIME = new Date().getTime()
+import HTMLScripts from 'html-scripts'
+import HTMLStyles from 'html-styles'
 
 module.exports = React.createClass({
-  propTypes () {
-    return {
-      title: React.PropTypes.string,
-    }
-  },
   render () {
     const title = DocumentTitle.rewind()
-
-    let css
-    if (process.env.NODE_ENV === 'production') {
-      css = <style dangerouslySetInnerHTML={{ __html: require('!raw!./public/styles.css') }} />
-    }
 
     return (
       <html lang="en">
@@ -31,14 +21,14 @@ module.exports = React.createClass({
             content="width=device-width, initial-scale=1.0"
           />
           <title>{title}</title>
-          <link rel="shortcut icon" href={this.props.favicon} />
           <TypographyStyle typography={typography} />
           <GoogleFont typography={typography} />
-          {css}
+          <HTMLStyles />
+          {this.props.headComponents}
         </head>
         <body>
           <div id="react-mount" dangerouslySetInnerHTML={{ __html: this.props.body }} />
-          <script src={prefixLink(`/bundle.js?t=${BUILD_TIME}`)} />
+          <HTMLScripts scripts={this.props.scripts} />
         </body>
       </html>
     )
